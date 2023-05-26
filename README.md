@@ -5,4 +5,4 @@ Este proyecto es un tutorial sobre cómo generar texto con la tecnología de len
 
 ![](API_CHAT_GPT.png)
 
-URL DEL POST: https://advisertecnology.com/index.php/2023/05/04/como-utilizar-la-api-de-openai-para-generar-texto-con-chatgpt-en-python/?preview_id=5907&preview_nonce=327538487c&preview=true
+URL DEL POST:https://advisertecnology.com/index.php/2023/05/04/como-utilizar-la-api-de-openai-para-generar-texto-con-chatgpt-en-python/
